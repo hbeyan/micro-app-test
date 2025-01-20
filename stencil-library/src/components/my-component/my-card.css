@@ -1,0 +1,10 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+  background-color: coral;
+  text-align: center;
+  justify-content: center;
+  min-height: 200px;
+  margin: 10px;
+}
